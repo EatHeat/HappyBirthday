@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy">Happy</string>
+    <string name="bday">Birthday!!!</string>
+    <string name="rule1">Arrange the words to form the line. Long press to drag and drop.</string>
+    <string name="rule2">Single click on item to delete.</string>
+
+</resources>
